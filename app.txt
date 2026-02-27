@@ -1,3 +1,4 @@
 Collaboration Demo Project
 Version 1.5
 Feature: User authentication system # We need this authentication to have access to the user information.
+This is a test line to check CI in github.
