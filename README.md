@@ -16,3 +16,8 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Write clear commit messages
 - Add comments for complex logic
 - Ensure CI passes before requesting review
+
+## Testing Requirements
+- All new features should include tests
+- Run tests locally before submitting PR
+- CI must pass for PR to be merged
